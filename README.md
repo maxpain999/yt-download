@@ -2,12 +2,14 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Fast+YouTube+Video+Downloader;Powered+by+Django+%2B+yt-dlp;Maximum+Quality+Downloads;Developer+Friendly+Tool"/></p>---
 
-<p align="center">"Python" (https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
-"Django" (https://img.shields.io/badge/Django-Backend-green?style=for-the-badge&logo=django)
-"yt-dlp" (https://img.shields.io/badge/Engine-yt--dlp-red?style=for-the-badge)
-"License" (https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+<p align="center">
 
-</p>---
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-Backend-green?style=for-the-badge&logo=django)
+![yt-dlp](https://img.shields.io/badge/Engine-yt--dlp-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+</p>
 
 ⚡ Overview
 
